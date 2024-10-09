@@ -107,7 +107,7 @@
 
 **Delete card inside Deck**
 ----
- Make a card inside a deck
+ Deletes a card inside a deck
 * **URL**
 
   /decks/:deckId/cards/:index
